@@ -8,4 +8,4 @@ file_upload.add_argument('audio_file',
                          required=True, 
                          help='Audio file')
 
-audio_mimetypes = ['audio/mp3', 'audio/mpeg', 'audio/mp4', 'audio/vnd.wav', 'audio/x-m4a']
+audio_mimetypes = ['audio/mp3', 'audio/mpeg', 'audio/mp4', 'audio/vnd.wav', 'audio/x-m4a', 'audio/wav']

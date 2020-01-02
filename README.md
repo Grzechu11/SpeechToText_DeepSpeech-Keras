@@ -126,3 +126,18 @@ docker run -d -p [PORT_ON_HOST]:[PORT_ON_DOCKER_NETWORK] [DOCKER_IMAGE_NAME]:[TA
 ```powershell
 docker run -d -p 5000:5000 speechmatics_s2t:latest
 ```
+
+### Conda enviroments
+
+You can use pip (not prepared yet):
+
+```bash
+pip install deepspeech-keras
+```
+
+Otherwise clone the code and create a new environment via [conda](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#):
+
+```bash
+conda env create -f=environment.yml     # or use: environment-gpu.yml
+conda activate SpeechToText_DeepSpeech
+```

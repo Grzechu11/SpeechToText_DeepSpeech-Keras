@@ -1,4 +1,4 @@
-from deepspeech import load
+from deepspeech_keras.utils import load
 
 class DeepSpeechSpeechToText:
     def __init__(self, full_path):
