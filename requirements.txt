@@ -39,7 +39,7 @@ tensorflow==1.13.1
 tensorflow-estimator==1.13.0
 termcolor==1.1.0
 tqdm==4.31.1
-werkzeug==0.15
+werkzeug==0.15.3
 flask==1.1.1
 dill==0.2.8.2
 flask_restful
