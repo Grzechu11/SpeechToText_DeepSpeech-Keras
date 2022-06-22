@@ -56,7 +56,7 @@ mkl==2019.1=144
 mkl_fft==1.0.6
 mkl_random==1.0.2
 numexpr==2.6.8
-numpy==1.15.4
+numpy==1.22.0
 numpy-base==1.15.4
 openssl==1.1.1a
 pytables==3.4.4
