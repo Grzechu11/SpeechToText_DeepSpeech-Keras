@@ -46,7 +46,7 @@ flask_restful
 flask_restplus
 blosc
 ca-certificates==2018.03.07=0
-certifi==2018.11.29
+certifi==2022.12.7
 dill==0.2.8.2
 h5py==2.9.0
 hdf5==1.10.4
